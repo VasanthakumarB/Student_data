@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+div.ra{
+	margin: left;
+	background:linear-gradient(55deg,dodgerblue,white);
+	width: 18cm;
+	padding: 30px 20px;
+	border-radius: 10px;
+}
+
